@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Experience from './components/Experience';
-import Skills from './components/Skills';
-import Certificates from './components/Certificates';
-import Education from './components/Education';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Header from './Header';
+import Hero from './Hero';
+import Experience from './Experience';
+import Skills from './Skills';
+import Certificates from './Certificates';
+import Education from './Education';
+import Contact from './Contact';
+import Footer from './Footer';
 import './index.css'; // Import your main CSS file
 
 function App() {
